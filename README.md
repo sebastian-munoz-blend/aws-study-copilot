@@ -2,7 +2,7 @@
 
 Asistente conversacional inteligente especializado en conceptos de AWS, RAG y LLMs, construido con Streamlit y Amazon Bedrock.
 
-## 📌 Descripción
+## Descripción
 
 Esta aplicación permite a los usuarios interactuar con un asistente experto en temas como:
 
@@ -16,7 +16,7 @@ El asistente responde de manera pedagógica y estructurada, ayudando a estudiant
 
 ---
 
-## 🚀 Tecnologías utilizadas
+## Tecnologías utilizadas
 
 - Python
 - Streamlit
@@ -26,7 +26,7 @@ El asistente responde de manera pedagógica y estructurada, ayudando a estudiant
 
 ---
 
-## ⚙️ Configuración
+## Configuración
 
 Este proyecto utiliza variables de entorno. Crear un archivo `.env` basado en `.env.example`:
 
